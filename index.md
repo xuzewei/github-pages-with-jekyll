@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Welcome to Xu Zewei blog
 
-I'm glad you are here. I plan to talk about ...
+Always do what you are afraid to do.
+
+When you're curious, you find lots of interesting things to do.
