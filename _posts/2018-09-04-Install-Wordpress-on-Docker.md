@@ -1,3 +1,7 @@
+---
+title: "Install Wordpress on Docker"
+date: 2018-09-04
+---
 # docker-wordpress-workflow
 
 ## Install wordpress/mysql/phpadmin on docker
